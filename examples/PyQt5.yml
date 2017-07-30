@@ -1,0 +1,5 @@
+binaries: []
+dynamic_filename:
+  APPLICATION.pro: "{{ application_name }}.pro"
+ctx:
+  application_name: "PyQt5"

@@ -1,0 +1,1 @@
+TARGET = {{ application_name }}
